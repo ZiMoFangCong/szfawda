@@ -7,7 +7,7 @@
     "env": {
         "UUID": {
             "description": "V2Ray UUID",
-            "value": "ce7ea10b-5b27-49ab-a93d-6b184df9cce9"
+            "value": "9c7b5ec9-d12c-450a-8062-947a00255f02"
         },
         "TUNNEL_TOKEN": {
             "description": "Cloudflare Tunnel Token",
